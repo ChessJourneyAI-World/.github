@@ -1,1 +1,1 @@
-# .github
+## Chess Journey AI
